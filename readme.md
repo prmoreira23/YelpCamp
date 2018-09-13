@@ -1,6 +1,3 @@
-Restful Routes
+# Yelpcamp
 
-index     /dogs GET display list of all dogs
-new       /dog/new GET display form to make a new dog
-create    /dogs  POST add new dog to database
-show      /dogs/:id GET shows info about one dog
+Yelpcamp is a webapp devloped in Node.js. People can create campgrounds and share it with followers
